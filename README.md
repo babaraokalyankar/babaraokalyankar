@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka, PySpark, AWS, and Snowflake**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tejas-kalyankar](https://github.com/babaraokalyankar)
+- 👨‍💻 All of my projects are available at [https://github.com/babaraokalyankar](https://github.com/babaraokalyankar)
 
 - 💬 Ask me about **Python, SQL, ML, Tableau, Git, Cloud**
 
