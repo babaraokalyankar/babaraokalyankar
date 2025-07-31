@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tejas Kalyankar</h1>
-<h3 align="center">A passionate Data Scientist and Cloud Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Babarao Kalyankar</h1>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-kalyankar&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-kalyankar" /> </p>
 
