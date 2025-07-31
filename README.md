@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, SQL, ML, Tableau, Git, Cloud**
 
-- 📫 How to reach me: **tejas.k@example.com**
+- 📫 How to reach me: **brkalyankar27@gmail.com**
 
 ---
 
